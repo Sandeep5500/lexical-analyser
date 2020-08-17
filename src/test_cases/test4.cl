@@ -1,0 +1,6 @@
+--A program to test the lexer's ability to deal with erroneous strings (contd)
+
+"String with newline character error
+"String with closing quote being a part of an escape sequence\"
+"This is a 1025 characters long text Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Hello hello when an unknown printer took a galley of type and scrambled it to make a type specimen book Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book Hello friend hello friend make a typical jourry's standard dummmyyy text"
+"String with backslash ending the file\
