@@ -1,5 +1,5 @@
 # COOLC Lexer Assignment 
-## By Sandeep Kumar CS18BTECH11041
+### By Sandeep Kumar CS18BTECH11041
 
 The CoolLexer.g4 file, the primary end product of this assignment, serves as a lexical analyser for the COOL programming language. The lexical analyser is equipped to read a variety of tokens including but not limited to integer and boolean constants, keywords, identifiers, strings and comments. The following are some of the major design decisions that have been taken to achieve this result.
 ## Design decisions
